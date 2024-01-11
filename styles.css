@@ -45,8 +45,15 @@ html{
   padding: 1em;
 }
 
-.candidate .name {
+.candidate .name,
+.candidate .roles,
+.candidate .bio {
   margin: 0;
+}
+
+.candidate .name{
+  font-size: var(--fs-500);
+  color: var(--clr-base-500);
 }
 
 /* /////////////////
