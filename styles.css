@@ -92,6 +92,12 @@ html {
 }
 
 
+.candidate .social a:hover,
+.candidate .social a:focus {
+  opacity: 0.5;
+}
+
+
 /* /////////////////
    Layout related
    no need to touch any of this
