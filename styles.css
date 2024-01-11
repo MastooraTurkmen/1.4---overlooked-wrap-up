@@ -84,6 +84,12 @@ html {
   line-height: 1;
 }
 
+.candidate .social {
+  list-style: none;
+  padding: 0;
+}
+
+
 /* /////////////////
    Layout related
    no need to touch any of this
