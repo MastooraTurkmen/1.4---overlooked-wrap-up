@@ -118,6 +118,7 @@ body {
 
 .candidate .btn {
   align-self: end;
+  justify-self: end;
 }
 
 /* /////////////////
