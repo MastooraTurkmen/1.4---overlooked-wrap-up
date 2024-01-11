@@ -26,6 +26,14 @@
   --border-radius: 0.75rem;
 }
 
+
+*,
+*::before,
+*::after{
+  box-sizing: border-box;
+}
+
+
 /* /////////////////
    Layout related
    no need to touch any of this
