@@ -34,6 +34,8 @@
 }
 
 html{
+  font-family: var(--ff-base);
+  line-height: 1.5;
   font-size: var(--fs-400);
   color: var(--clr-base-400);
 }
