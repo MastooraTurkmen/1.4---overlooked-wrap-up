@@ -73,6 +73,7 @@ html {
   padding: 0.5em 3em;
   text-decoration: none;
   text-transform: uppercase;
+  color: var(--fg, #fff);
 }
 
 .candidate {
