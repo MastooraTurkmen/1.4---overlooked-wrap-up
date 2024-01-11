@@ -70,6 +70,7 @@ html {
 .button {
   display: inline-block;
   cursor: pointer;
+  padding: 0.5em 3em;
 }
 
 .candidate {
