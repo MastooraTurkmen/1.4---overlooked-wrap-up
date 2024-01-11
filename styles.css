@@ -48,6 +48,7 @@ html {
   margin-right: 0.5em;
   border-radius: 100vw;
   color: var(--fg, #333);
+  background: var(--bg, lightgray);
 }
 
 .ux {
