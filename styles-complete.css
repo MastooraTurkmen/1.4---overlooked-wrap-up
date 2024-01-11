@@ -1,49 +1,4 @@
 
-/* /////////////////
-   Layout related
-   no need to touch any of this
-//////////////////*/
-
-.candidates {
-  max-width: 70em;
-  margin: 0 auto;
-  padding: 2em;
-  display: grid;
-  gap: 2em;
-}
-
-.candidate {
-  margin-left: auto;
-  margin-right: auto;
-  display: grid;
-  grid-template-areas:
-    "img social"
-    "name name"
-    "role role"
-    "bio bio"
-    "button button";
-  gap: 0.5em;
-  box-shadow: var(--shadow);
-  border-radius: var(--border-radius);
-}
-
-@media (min-width: 500px) {
-  .candidate {
-    grid-template-columns: min-content minmax(15rem, 22.5rem);
-    grid-template-rows: min-content min-content 1fr auto;
-    grid-template-areas:
-      "img name"
-      "img role"
-      "img bio"
-      "social button";
-  }
-}
-
-@media (min-width: 960px) {
-  .candidates {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
 
 .candidate img {
   grid-area: img;
