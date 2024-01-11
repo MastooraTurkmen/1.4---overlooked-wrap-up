@@ -116,6 +116,9 @@ body {
   opacity: 0.5;
 }
 
+.candidate .btn {
+  align-self: end;
+}
 
 /* /////////////////
    Layout related
