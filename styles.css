@@ -50,8 +50,12 @@ html {
 }
 
 .ux {
-  --bg: var(var(--clr-ux-300))
+  --bg: var(--clr-ux-300)
+  --fg: var(--clr-ux-400)
 }
+
+
+
 
 .candidate {
   padding: 1em;
