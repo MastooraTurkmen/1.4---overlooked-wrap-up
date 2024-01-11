@@ -40,15 +40,9 @@ html {
   color: var(--clr-base-400);
 }
 
-.tag {
-  display: inline-block;
+.roles {
+  line-height: 1;
   font-size: var(--fs-300);
-  font-weight: var(--fw-700);
-  padding: 0.15em 0.75em;
-  margin-right: 0.5em;
-  border-radius: 100vw;
-  color: var(--fg, #333);
-  background: var(--bg, lightgray);
 }
 
 .ux {
@@ -65,6 +59,18 @@ html {
   --bg: var(--clr-dev-300)
   --fg: var(--clr-dev-400)
 }
+
+.tag {
+  display: inline-block;
+  font-size: var(--fs-300);
+  font-weight: var(--fw-700);
+  padding: 0.15em 0.75em;
+  margin-right: 0.5em;
+  border-radius: 100vw;
+  color: var(--fg, #333);
+  background: var(--bg, lightgray);
+}
+
 
 
 .candidate {
