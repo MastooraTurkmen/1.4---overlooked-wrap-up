@@ -59,7 +59,10 @@ html {
   --fg: var(--clr-ui-400)
 }
 
-
+.dev {
+  --bg: var(--clr-dev-300)
+  --fg: var(--clr-dev-400)
+}
 
 
 .candidate {
