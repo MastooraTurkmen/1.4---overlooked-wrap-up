@@ -40,10 +40,6 @@ html {
   color: var(--clr-base-400);
 }
 
-.roles {
-  line-height: 1;
-  font-size: var(--fs-300);
-}
 
 .ux {
   --bg: var(--clr-ux-300)
@@ -97,6 +93,10 @@ html {
   justify-content: space-evenly;
 }
 
+.candidate .roles {
+  line-height: 1;
+  font-size: var(--fs-300);
+}
 
 .candidate .social a:hover,
 .candidate .social a:focus {
