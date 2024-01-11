@@ -47,6 +47,7 @@ html {
   padding: 0.15em 0.75em;
   margin-right: 0.5em;
   border-radius: 100vw;
+  color: var(--fg, #333);
 }
 
 .ux {
