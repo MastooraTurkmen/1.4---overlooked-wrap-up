@@ -41,10 +41,13 @@ html{
 }
 
 
-.candidate{
+.candidate {
   padding: 1em;
 }
 
+.candidate .name {
+  margin: 0;
+}
 
 /* /////////////////
    Layout related
