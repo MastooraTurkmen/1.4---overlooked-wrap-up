@@ -33,13 +33,17 @@
   box-sizing: border-box;
 }
 
-html{
+html {
   font-family: var(--ff-base);
   line-height: 1.5;
   font-size: var(--fs-400);
   color: var(--clr-base-400);
 }
 
+.tag {
+  display: inline-block;
+  padding: .25em .5em;
+}
 
 .candidate {
   padding: 1em;
