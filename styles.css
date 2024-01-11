@@ -67,7 +67,9 @@ html {
   background: var(--bg, lightgray);
 }
 
-
+.button {
+  display: inline-block;
+}
 
 .candidate {
   padding: 1em;
