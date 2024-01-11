@@ -52,8 +52,10 @@ html{
 }
 
 .candidate .name{
+  font-family: var(--ff-accent);
   font-size: var(--fs-500);
   color: var(--clr-base-500);
+  line-height: 1;
 }
 
 /* /////////////////
