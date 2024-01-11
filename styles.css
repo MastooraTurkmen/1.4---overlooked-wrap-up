@@ -74,6 +74,7 @@ html {
   text-decoration: none;
   text-transform: uppercase;
   color: var(--fg, #fff);
+  background-color: var(--bg, var(--clr-accent-400));
 }
 
 .candidate {
