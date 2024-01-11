@@ -33,6 +33,14 @@
   box-sizing: border-box;
 }
 
+html{
+  font-size: var(--fs-400);
+  color: var(--clr-base-400);
+}
+
+
+
+
 
 /* /////////////////
    Layout related
