@@ -71,6 +71,7 @@ html {
   display: inline-block;
   cursor: pointer;
   padding: 0.5em 3em;
+  text-decoration: none;
 }
 
 .candidate {
