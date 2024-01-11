@@ -54,6 +54,11 @@ html {
   --fg: var(--clr-ux-400)
 }
 
+.ui {
+  --bg: var(--clr-ui-300)
+  --fg: var(--clr-ui-400)
+}
+
 
 
 
