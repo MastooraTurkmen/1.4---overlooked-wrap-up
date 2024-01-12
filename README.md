@@ -12,6 +12,6 @@ A Great Design Site for developers. In this site just HTML and CSS are used.
 
 ```bash
 # Clone this repository
-
+$ git clone 
 
 ```
