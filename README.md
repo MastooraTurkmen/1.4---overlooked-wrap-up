@@ -49,3 +49,4 @@ cd Overlooked-Fundementals
 4. From there select **_Deploy with Github_**.
 5. Then write your project name and select it.
 6. After selecting here you can see that the project **_Review configuration for Overlooked-Fundementals_** and then select the **_Deploy Overlooked-Fundementals_** Button.
+7. Now your project is Live.
