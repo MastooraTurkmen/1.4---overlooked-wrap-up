@@ -17,3 +17,8 @@ $ git clone https://github.com/MastooraTurkmen/Overlooked-Fundementals
 # Go inside the repository
 cd Overlooked-Fundementals
 ```
+
+
+-----
+
+## Languages and Tools are used 🗣️🔧
