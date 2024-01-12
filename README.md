@@ -6,7 +6,7 @@ A Great Design Site for developers. In this site just HTML and CSS are used.
 
 ![Design](./screenshot/the-design.jpg)
 ![Design](./screenshot/image.png)
-![Alt text](./screenshot/image-1.png)
+![Design](./screenshot/image-1.png)
 
 
 
