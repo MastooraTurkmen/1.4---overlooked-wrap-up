@@ -15,5 +15,5 @@ A Great Design Site for developers. In this site just HTML and CSS are used.
 $ git clone 
 
 # Go inside the repository
-
+cd Overlooked-Fundementals
 ```
