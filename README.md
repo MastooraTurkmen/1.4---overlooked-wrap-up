@@ -11,6 +11,7 @@ A Great Design Site for developers. In this site just HTML and CSS are used.
 ## Cloning the project 🪛🔨
 
 ```bash
+# Clone this repository
 
 
 ```
