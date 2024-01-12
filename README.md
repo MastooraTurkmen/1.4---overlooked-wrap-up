@@ -12,7 +12,7 @@ A Great Design Site for developers. In this site just HTML and CSS are used.
 
 ```bash
 # Clone this repository
-$ git clone 
+$ git clone https://github.com/MastooraTurkmen/Overlooked-Fundementals
 
 # Go inside the repository
 cd Overlooked-Fundementals
